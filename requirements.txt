@@ -1,0 +1,13 @@
+recordclass
+pyyaml
+unicorn==2.0.1.post1
+pyelftools
+capstone
+prettytable
+pexpect
+ruamel.yaml
+bitstring
+hy @ git+https://github.com/hylang/hy.git@47ab79ff19db58f3bf81a1837a9c3a9c83963a16
+hyrule @ git+https://github.com/hylang/hyrule.git@bc32a936d917e022f07507fede03c771c59aa73b
+iced-x86
+rich
